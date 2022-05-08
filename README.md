@@ -1,4 +1,4 @@
-Sup, I'm Marcos
+##Sup, I'm Marcos
 
-Doing Computer Science (8/10)
-Beginner at all levels!
+###Doing Computer Science (8/10)
+###Beginner at all levels!
