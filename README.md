@@ -1,6 +1,6 @@
 ## Sup, I'm Marcos
 
-### Doing Computer Science (5/8)
+### Doing Computer Science (6/8)
 ### Beginner at all levels!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marqu1n&theme=monokai&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
